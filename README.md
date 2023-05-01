@@ -69,12 +69,11 @@ This project was built using the ES6 module. The website is used to an books and
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="https://unorjikingsley.github.io/RnB-Meets-Afro/"></a>
-### DEMO : [https://www.loom.com/share/cdc978156b924c33ada855e6669b3baa]
+## 🚀 Live Demo <a name="https://unorjikingsley.github.io/Awesome-Books-ES6-module/"></a>
 
 Github Page Live Link
-- [Live Demo] (https://unorjikingsley.github.io/RnB-Meets-Afro/)
-- [Branch Link] (https://github.com/unorjikingsley/RnB-Meets-Afro) 
+- [Live Demo] (https://unorjikingsley.github.io/Awesome-Books-ES6-module/)
+- [Branch Link] (https://github.com/unorjikingsley/Awesome-Books-ES6-module) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +94,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 cd my-folder
-git clone git@github.com/unorjikingsley/kingrepo
+git clone https://github.com/unorjikingsley/Awesome-Books-ES6-module.git
 or download the zip file to your local machine
 
 ### Install
